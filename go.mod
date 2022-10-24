@@ -30,7 +30,7 @@ require (
 	github.com/google/pprof v0.0.0-20211122183932-1daafda22083
 	github.com/gophercloud/gophercloud v0.24.0
 	github.com/grpc-ecosystem/grpc-gateway v1.16.0
-	github.com/hashicorp/consul/api v1.11.0
+	github.com/hashicorp/consul/api v1.15.3
 	github.com/hetznercloud/hcloud-go v1.33.1
 	github.com/influxdata/influxdb v1.9.5
 	github.com/json-iterator/go v1.1.12
@@ -59,10 +59,10 @@ require (
 	github.com/uber/jaeger-lib v2.4.1+incompatible
 	go.uber.org/atomic v1.9.0
 	go.uber.org/goleak v1.1.12
-	golang.org/x/net v0.0.0-20211209124913-491a49abca63
+	golang.org/x/net v0.0.0-20211216030914-fe4d6282115f
 	golang.org/x/oauth2 v0.0.0-20211104180415-d3ed0bb246c8
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
-	golang.org/x/sys v0.0.0-20211210111614-af8b64212486
+	golang.org/x/sys v0.0.0-20220412211240-33da011f77ad
 	golang.org/x/time v0.0.0-20211116232009-f0f3c7e86c11
 	golang.org/x/tools v0.1.8
 	google.golang.org/api v0.63.0
